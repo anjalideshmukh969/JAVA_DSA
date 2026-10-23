@@ -19,14 +19,17 @@ public class questions {
 
 //        question 2-fibonacci numbers
 
+//        int n = sc.nextInt();
+//        int a = 0;
+//        int i = 1;
+
+//        question 3 - patterns
         int n = sc.nextInt();
-        int a = 0;
-        int i = 1;
-
-
-
-
-
-
+        for(int i = 0; i< n; i++ ){
+            for(int j = 0; j<n; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
