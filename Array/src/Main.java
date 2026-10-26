@@ -23,5 +23,11 @@ public class Main{
         String[] ar = new String[5];  //new String[5] creates an array of 5 elements.
         System.out.print(Arrays.toString(ar)); //5 null obj. created
 
+//      2 D  array
+        int[][] ar2d = {
+                {1, 2, 3},
+                {4, 5, 6}
+        };
+        System.out.println(Arrays.deepToString(ar2d));
     }
 }
