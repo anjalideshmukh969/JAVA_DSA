@@ -31,6 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.array2D.executor": "Run",
     "Application.concepts.executor": "Run",
     "Application.function.executor": "Run",
     "Application.functionp.executor": "Run",
