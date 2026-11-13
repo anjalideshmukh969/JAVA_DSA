@@ -88,7 +88,15 @@ public class questions {
 //            n = n /10;
 //        }
 //    }
-//}//question 8 - calculator
+//        ques 8- swap no.
+        int a = 10;
+        int b = 3;
+
+        int temp = a;
+        a = b;
+        b=temp;
+        System.out.println("a : "+a + "b : "+b);
+//}//question 9 - calculator
         int ans = 0;
         while(true) {
             System.out.print("enter operator : ");
