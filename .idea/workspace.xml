@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3742ed64-6f4e-47c4-9d91-91455bc70419" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/lc1295.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/src/array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/src/array2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/src/array2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arraylist.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.array2D.executor": "Run",
     "Application.arrayques.executor": "Run",
@@ -39,6 +43,7 @@
     "Application.concepts.executor": "Run",
     "Application.function.executor": "Run",
     "Application.functionp.executor": "Run",
+    "Application.lc1295.executor": "Run",
     "Application.linearSearch.executor": "Run",
     "Application.patterns.executor": "Run",
     "Application.practice.executor": "Run",
